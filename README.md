@@ -1,1 +1,5 @@
-This is a simple Social links for a individual user. Using methods like flexblox to center the div and giving everything its appropriate gap.
+# Social Links  
+This is a simple Social links for a individual user.
+
+# What I learned
+Using methods like flexblox to center the element and giving everything its appropriate gap.
